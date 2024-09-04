@@ -305,10 +305,19 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<h2 id="ticket-discounts">Ticket discounts</h2>
+<h3 id="early-bird-discount">Early Bird Discount</h3>
+Register within the first week of open registration and receive a 25% discount on your participation fee. Don’t miss out on this opportunity to secure your spot at a reduced price!
+
+<h3 id="group-discount">Group Discount</h3>
+Bring your team along and benefit from our group discount. Groups of five or more participants are eligible for a 25% discount. For more details and to register your group, please email us at training@esciencecenter.nl.
+
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
 <h2 id="code-of-conduct">Code of Conduct</h2>
+
 
 {% if info.carpentry == "ds" %}
 <p>
